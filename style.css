@@ -1,5 +1,5 @@
 img {
-  width: 100%;
+  width:220px;
 }
 
 .my-button {
@@ -7,7 +7,7 @@ img {
   border-radius: 10px;
 }
 .custom-style {
-  background-color: #cec7c3;
+  background-color: white;
 }
 
 .my-logo img {
